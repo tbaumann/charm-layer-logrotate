@@ -1,0 +1,5 @@
+includes:
+  - 'layer:apt'
+  - 'layer:options'
+repo: 'https://github.com/tbaumann/charm-layer-logrotate'
+
